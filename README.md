@@ -1,5 +1,6 @@
 # CSharpNotlarim
 This repository contains comprehensive notes on the C# programming language. Here, you will find a comprehensive compilation of various fundamental concepts and advanced structures of C#.
+(As a Turkish source)
 
 Github: https://github.com/trukafatsum 
 
