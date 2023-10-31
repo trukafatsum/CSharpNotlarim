@@ -4,7 +4,7 @@ This repository contains comprehensive notes on the C# programming language. Her
 
 Github: https://github.com/trukafatsum 
 
-**Buradaki notların tutulması tarafımca yapılmış ve Typora uygulaması üzerinden markdown halinde yazılıp, html formatına da dönüştürülmüştür.**
+**Buradaki notların tutulması tarafımca yapılmış ve Typora uygulaması üzerinden markdown halinde yazılıp, html(dark style) formatına da dönüştürülmüştür.**
 
 > Eğitim sürecinde ve notların çoğunda emeği geçen [Gençay Yıldız](https://www.linkedin.com/in/gen%C3%A7ay-y%C4%B1ld%C4%B1z-a1453987/?originalSubdomain=tr) hocama teşekkürü borç bilirim.
 
