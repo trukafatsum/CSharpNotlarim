@@ -4,7 +4,7 @@
 
 [TOC]
 
-
+<img src = https://github.com/trukafatsum/CSharpNotlarim/blob/main/OOP/%C4%B0lgili%20Ders%20QR/15-QR.png width=10% alt="İlgili Video İçeriği QR" />
 
 ### Bir Programcı Açısından Kalıtım Nedir?
 
