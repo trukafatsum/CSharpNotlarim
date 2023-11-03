@@ -4,7 +4,7 @@
 
 [TOC]
 
-
+<img src = https://github.com/trukafatsum/CSharpNotlarim/blob/main/OOP/%C4%B0lgili%20Ders%20QR/17-QR.png width=10% alt="İlgili Video İçeriği QR" />
 
 ### Nesnelerdeki ToString, Equals, GetHashCode ve GetType Metotları Nereden Gelmektedir?
 
