@@ -6,7 +6,7 @@
 
 Static yapılanmasını ilerleyen konularda inceleyeceğiz, lakin burada özel sınıf elemanları başlığı altında belirli kavramlardan bahsedeceğiz.
 
-
+<img src = https://github.com/trukafatsum/CSharpNotlarim/blob/main/OOP/%C4%B0lgili%20Ders%20QR/13-QR.png width=10% alt="İlgili Video İçeriği QR" />
 
 ### Bir sınıftan nesne üretilirken ilk tetiklenen fonksiyon hangisidir?
 
