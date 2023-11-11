@@ -37,9 +37,6 @@
 
 <img src=https://i.imgur.com/Dt8ezdU.png align=left width=75% />
 
-<img src=https://i.imgur.com/NlqiE9z.png align=left width=75% />
-
-
 
 ### Tabloları Belirtme
 
@@ -78,7 +75,6 @@ Namespace:
 
 Veritabanında olan değişiklikleri kod kısmına yansıtabilmek için Scaffold talimatını tekrar vermeniz gerekmektedir lakin verilen talimat neticesinde ilgili sınıfların zaten var olduğuna dair hata mesajı sizleri yüksek ihtimalle karşılayacaktır.
 
-<img src=https://i.imgur.com/4Mduku6.png align=left width=75% />
 
 Böyle bir durumda veritabanı modeline değişiklikleri manuel olarak yansıtabileceğimiz gibi (ki tavsiye edilmez!), dosyalar var olsa dahi zorla yeniden en güncel haliyle modellenmesini sağlayabiliriz. Bunun için aşağıdaki gibi Force talimatının verilmesi yeterli olacaktır.
 
