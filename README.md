@@ -12,6 +12,7 @@ Github: https://github.com/trukafatsum
 
 [Anadolu Üniversitesi Dijital Ders Platformu - Programlamada Yeni Eğilimler : Çevik Yazılım ve Scrum Yöntemi](https://ddp.anadolu.edu.tr/#/course/YBS406U)
 
-[YouTube: Özel Ders Formatında A'dan Z'ye C#10 Programlama Eğitimi - Gençay Yıldız](https://www.youtube.com/watch?v=ag0XfgyBDbU&list=PLQVXoXFVVtp3e_urGZcMNAHx2Eo4Rm5Xk)
-
-[NgAkademi: A'dan Z'ye Temel C#10 Programlama Eğitimi - Gençay Yıldız](https://ngakademi.com/courses/adan-zye-temel-c-programlama-egitimi/)
+[NgAkademi: Temel C#10 Programlama Eğitimi - Gençay Yıldız](https://ngakademi.com/courses/adan-zye-temel-c-programlama-egitimi/)
+[NgAkademi: Nesne Tabanlı Programlama Eğitimi ](https://ngakademi.com/courses/ozel-ders-formatinda-adan-zye-nesne-tabanli-programlama-egitimi/)
+[Youtube: Entity Framework Core - Gençay Yıldız](https://www.youtube.com/playlist?list=PLQVXoXFVVtp1o3nq3-IXv42bPaFlzroBE)
+[NgAkademi: Asp.NET Core 5.0 Web Programlama Eğitimi - Gençay Yıldız](https://ngakademi.com/courses/ozel-ders-formatinda-adan-zye-asp-net-core-5-0-web-programlama-egitimi/)
